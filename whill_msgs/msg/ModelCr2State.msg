@@ -1,0 +1,9 @@
+int32 battery_power
+float32 battery_current
+float32 right_motor_angle
+float32 left_motor_angle
+float32 right_motor_speed
+float32 left_motor_speed
+int32 power_on
+int32 speed_mode_indicator
+int32 error
