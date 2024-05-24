@@ -5,7 +5,8 @@
 The "whill_msgs" is a ROS2 package for WHILL Model CR2 interfaces. <br>
 Please refer [whill](https://github.com/WHILL/ros2_whill) page for more information.
 
-<img src="https://user-images.githubusercontent.com/2618822/44189349-e4f39800-a15d-11e8-9261-79edac310e6a.png" width="100px">
+<img width=22% title="WHILL Model CR2" src="https://github.com/WHILL/Model_CR_Technical_Support/assets/129816934/387a8aac-3808-4727-895d-9857059ee342">
+<img width=24% title="Wheeled Robot Base" src="https://github.com/WHILL/Model_CR_Technical_Support/assets/129816934/6a63ed45-9e0c-40ca-b71c-8dff614af141">
 
 **Attention:** <br>
 This package on `humble` branch only provides common functions for all models. <br>
